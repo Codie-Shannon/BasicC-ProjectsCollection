@@ -6,12 +6,10 @@ This GitHub repository consists of fifteen basic C# projects developed at Toi Oh
 * Algebra
 * Algorithms
 * Arrays
-* Auto-Implemented Properties
 * C#
-* Console Applications
+* C# Auto-Implemented Properties
+* Windows Console Applications
 * Dictionaries
-* Else IF Statements
-* Else Statements
 * For Loops
 * Foreach Loops
 * IF Statements
