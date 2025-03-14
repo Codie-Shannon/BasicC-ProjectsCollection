@@ -14,7 +14,7 @@ This GitHub repository consists of fifteen basic C# projects developed at Toi Oh
 * Else Statements
 * For Loops
 * Foreach Loops
-* IF
+* IF Statements
 * Lists
 * Local Variables
 * Models
